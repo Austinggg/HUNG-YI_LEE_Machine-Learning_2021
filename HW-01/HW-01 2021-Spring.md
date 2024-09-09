@@ -2,7 +2,11 @@
 
 ## 说在前面
 
-作为本门课程的第一个作业,也是我接触的第一个深度学习项目
+作为本门课程的第一个作业,也是我接触的第一个深度学习项目,确实有很多地方需要学习，从零开始完成这个lab，对使用pytorch的基本操作和如何搭建一个深度学习网络十分有帮助。
+
+## 课程资料
+
+- [题目说明] (https://www.youtube.com/watch?v=Q4yskCCixhw&feature=youtu.be)
 
 ## Data Analysis
 
